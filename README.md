@@ -58,4 +58,4 @@ Bringing loved ones to hospitals or care centers can be challenging for busy fam
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sxmen07/Healthcare-Provider.git
+   git clone https://github.com/Sxmen07/StepCare.git
